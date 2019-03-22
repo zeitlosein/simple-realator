@@ -1,0 +1,16 @@
+{
+  "name": "simple-realtor",
+  "version": "1.0.0",
+  "description": "Realator Website Demo",
+  "main": "index.js",
+  "homepage": "https://zeitlosein.github.io/simple-realtor",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolas Smith",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
